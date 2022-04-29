@@ -1,6 +1,6 @@
 ## Change Log
 
-### v3.1.0 (2022/04/14 10:37 +01:00)
+### v3.1.0 (2022/04/16 01:22 +00:00)
 - [4f22893](https://github.com/klebster2/Britfone/commit/4f22893e525dca8e4ff695310fdc60ff98fdf270) fix: phones (@klebster2)
 - [9f1f247](https://github.com/klebster2/Britfone/commit/9f1f247b9430ffebcd8867b93fb631708bd8f2a7) add: 2084 additions, 188 fixes (@klebster2)
 - [fcf17f8](https://github.com/klebster2/Britfone/commit/fcf17f8174a0b1f71cf2d844b8e63e64e836cc83) fix: space (@klebster2)
